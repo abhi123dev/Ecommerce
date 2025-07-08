@@ -14,3 +14,9 @@ The design inspiration and reference for this project is available on Figma:
 - `src/components/` — Reusable components like Header, Footer, Banner, etc.
 - `src/pages/` — Page-level components like Home, Contact, Shop
 - `src/assets/` — Icons, images, and other static assets
+
+### Demo video is [here](https://github.com/user-attachments/assets/a79115d2-3fae-4301-8fe2-97f23da81c9e)
+
+
+
+

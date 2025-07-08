@@ -7,7 +7,7 @@ An elegant and responsive eCommerce website built using **React (Vite)** and **T
 - **Tailwind CSS v3**
 
 ## 🎨 Figma Design
-The design inspiration and reference for this project is available on Figma:  
+The design for this project is   
 [Figma UI Design](https://www.figma.com/design/kQXJm3yJwfLinQMJ8qJJ8O/eCommerce-Website-%7C-Web-Page-Design-%7C-UI-KIT-%7C-Interior-Landing-Page--Community-?node-id=0-1&t=ts7za7zvlDzQTgK2-0)
 
 ## 📁 Project Structure
